@@ -1,0 +1,8 @@
+a = int(input("Enter a Number:"))
+b = input("Enter a String:")
+c = float(input("Enter a FLoat Number:"))
+d = bool(input("Enter a boolean value:"))
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
